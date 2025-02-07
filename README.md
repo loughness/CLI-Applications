@@ -47,9 +47,7 @@ Or for a shell script:
 
 This repository will grow as more CLI applications are added. Below is a list of currently available applications:
 
-1. **[App Name]** - Brief description
-2. **[App Name]** - Brief description
-3. **[App Name]** - Brief description
+1. **hello_cli** - Following along with the tutorial from [Real Python](https://realpython.com) about using argparse for CLI programming.
 
 ## 📌 Contributing
 
@@ -61,4 +59,4 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 ---
 
-Happy coding! 🚀
+Cheers! 🤙🏻
