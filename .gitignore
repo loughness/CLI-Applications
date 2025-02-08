@@ -47,3 +47,7 @@ yarn.lock
 
 # Ignore Shell history (if scripts use sensitive info)
 .history
+
+# Ignore environment files
+.env
+currency_converter_cli/src/.env
