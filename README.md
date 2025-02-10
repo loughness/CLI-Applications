@@ -48,6 +48,7 @@ Or for a shell script:
 This repository will grow as more CLI applications are added. Below is a list of currently available applications:
 
 1. **hello_cli** - Following along with the tutorial from [Real Python](https://realpython.com) about using argparse for CLI programming.
+2. **currency_converter_cli** - A currency converter that can be used in the CLI
 
 ## 📌 Contributing
 
